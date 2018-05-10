@@ -1,5 +1,5 @@
 # Portfolio Open Source
-Semplice portfolio dei progetti open source realizzato con AngularJs, TachyonsCss e le API di Github.
+Questo progetto aiuta gli sviluppatori a creare un semplice portfolio dei propri progetti open source attraverso l'uso di AngularJs, TachyonsCss e le API di Github.
 
 ### Licenza
 Codice e documentazione distribuiti con licenza MIT. Consulta il [file della licenza](LICENSE) per ulteriori informazioni.
