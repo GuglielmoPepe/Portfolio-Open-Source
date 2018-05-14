@@ -8,11 +8,12 @@ Il progetto dipende da:
 * [GitHub REST API v3](https://developer.github.com/v3/)
 
 ## Installazione
-1.
-2.
+1. carica il codice sorgente in una cartella raggiungibile via web;
+2. modifica le impostazioni nel file `config.js` inserendo il tuo username GitHub.com;
+3. modifica il css utilizzando le classi di Tachyons;
 
 ## Uso
-
+Utilizza questo repository per creare il tuo portfolio dei progetti open source o anche come semplice tutorial per imparare ad usare Tachyons e/o AngularJS.
 
 ### Licenza
 Codice e documentazione distribuiti con licenza MIT. Consulta il [file della licenza](https://github.com/GuglielmoPepe/Portfolio-Open-Source/blob/master/LICENSE) per ulteriori informazioni.
