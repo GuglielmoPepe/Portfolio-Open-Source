@@ -1,6 +1,19 @@
 # Portfolio Open Source
 Questo progetto aiuta gli sviluppatori a creare un semplice portfolio dei propri progetti open source attraverso l'uso di AngularJs, TachyonsCss e le API di Github.
 
+## Dipendenze
+Il progetto dipende da:
+* [AngularJS](https://angularjs.org/)
+* [Tachyons](https://tachyons.io/)
+* [GitHub REST API v3](https://developer.github.com/v3/)
+
+## Installazione
+1.
+2.
+
+## Uso
+
+
 ### Licenza
 Codice e documentazione distribuiti con licenza MIT. Consulta il [file della licenza](https://github.com/GuglielmoPepe/Portfolio-Open-Source/blob/master/LICENSE) per ulteriori informazioni.
 
