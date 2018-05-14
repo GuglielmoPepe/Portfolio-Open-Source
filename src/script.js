@@ -63,19 +63,3 @@ portfolio.filter('masonry', function() {
     return filtered;
   };
 });
-portfolio.filter('masonry', function() {
-  return function (items, column, columns) {
-    var filtered = [];
-    var counter = 0;
-    
-    for (var i = 0; i < items.length; i++) {
-
-      if (counter % columns == column) {
-        filtered.push(items[i]);
-      }
-      
-      counter++;
-    }
-    return filtered;
-  };
-});
