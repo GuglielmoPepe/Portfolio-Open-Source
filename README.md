@@ -10,7 +10,7 @@ Il progetto dipende da:
 ## Installazione
 1. carica il codice sorgente in una cartella raggiungibile via web;
 2. modifica le impostazioni nel file `config.js` inserendo il tuo username GitHub.com;
-3. modifica il css utilizzando le classi di Tachyons;
+3. modifica il css utilizzando [Tachyons](https://tachyons.io/);
 
 ## Uso
 Utilizza questo repository per creare il tuo portfolio dei progetti open source o anche come semplice tutorial per imparare ad usare Tachyons e/o AngularJS.
